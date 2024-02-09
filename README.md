@@ -1,4 +1,4 @@
-#Fichero 
+<h1>#Fichero </h1>
 Los ficheros  suelen acompañar a las aplicaciones dentro de los repositorios para dar información del proyecto o código
 #Etiquetas
 Disponemos de muchas etiquetas para visualizar el documento indicale diferentes títulos o secciones con las \#Primer nivel y \#\#Segundo nivel
